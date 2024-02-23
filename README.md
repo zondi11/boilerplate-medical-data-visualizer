@@ -1,3 +1,6 @@
 # Medical Data Visualizer
 
-This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
+Medical Examination Data Analysis with Pandas, Matplotlib, and Seaborn
+This Python project analyzes medical examination data using the Pandas, Matplotlib, and Seaborn libraries.
+The dataset contains information collected during medical examinations, including body measurements, blood test results, and lifestyle choices. 
+The analysis aims to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.
